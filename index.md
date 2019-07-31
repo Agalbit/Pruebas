@@ -8,3 +8,4 @@
 *Larry Protter y el Malware de Fuego
 *Larry Protter y la Orden del Unix
 *Larry Protter y el Misterio del Hacker
+*Larry Protter y el Commit de la muerte
